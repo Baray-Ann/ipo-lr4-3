@@ -3,7 +3,6 @@ print("Ваше число:", n)
 fsum=0
 f1=0
 f2=1
-fsum=0
 while fsum<=n:
     print(fsum)
     fsum=f1+f2
